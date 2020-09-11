@@ -1,13 +1,13 @@
-cmake_minimum_required(VERSION 3.13)
+cmake_minimum_required(VERSION 3.10)
 
-project(fibonacci CXX)
+project(fib-container CXX)
 
-add_executable(fibonacci src/main.cpp)
+add_executable(fib-container src/main.cpp)
 
 find_package(fmt CONFIG REQUIRED)
 find_package(cppitertools CONFIG REQUIRED)
 
-target_link_libraries(fibonacci
+target_link_libraries(fib-container
   PRIVATE
     fmt::fmt
     cppitertools::cppitertools)
