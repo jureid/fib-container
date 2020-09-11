@@ -1,0 +1,9 @@
+Package: boost-move
+Version: 1.73.0
+Depends: boost-assert, boost-config, boost-core, boost-integer, boost-static-assert, boost-vcpkg-helpers
+Architecture: x64-osx
+Multi-Arch: same
+Abi: 1fd45f31debb803a874fda217bb5dda83bc1732b
+Description: Boost move module
+Type: Port
+Status: install ok half-installed

@@ -1,0 +1,8 @@
+x64-osx/
+x64-osx/include/
+x64-osx/include/boost/
+x64-osx/include/boost/static_assert.hpp
+x64-osx/share/
+x64-osx/share/boost-static-assert/
+x64-osx/share/boost-static-assert/copyright
+x64-osx/share/boost-static-assert/vcpkg_abi_info.txt

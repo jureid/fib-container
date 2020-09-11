@@ -1,0 +1,9 @@
+Package: boost-detail
+Version: 1.73.0
+Depends: boost-compatibility, boost-config, boost-preprocessor, boost-vcpkg-helpers
+Architecture: x64-osx
+Multi-Arch: same
+Abi: 6781dd580022b97c4bbf80e12fb193b4d962b54d
+Description: Boost detail module
+Type: Port
+Status: install ok installed

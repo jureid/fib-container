@@ -1,0 +1,10 @@
+Package: boost-vcpkg-helpers
+Version: 7
+Port-Version: 1
+Depends: boost-uninstall
+Architecture: x64-osx
+Multi-Arch: same
+Abi: 4bab8e4ad3606708c97090075202177de0e61dcc
+Description: a set of vcpkg-internal scripts used to modularize boost
+Type: Port
+Status: install ok installed

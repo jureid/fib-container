@@ -1,0 +1,9 @@
+Package: boost-config
+Version: 1.73.0
+Depends: boost-compatibility, boost-vcpkg-helpers
+Architecture: x64-osx
+Multi-Arch: same
+Abi: f382028fba11ff3951f087165a23c650db5daad6
+Description: Boost config module
+Type: Port
+Status: install ok half-installed

@@ -1,0 +1,10 @@
+x64-osx/
+x64-osx/include/
+x64-osx/include/boost/
+x64-osx/include/boost/exception/
+x64-osx/include/boost/exception/exception.hpp
+x64-osx/include/boost/throw_exception.hpp
+x64-osx/share/
+x64-osx/share/boost-throw-exception/
+x64-osx/share/boost-throw-exception/copyright
+x64-osx/share/boost-throw-exception/vcpkg_abi_info.txt

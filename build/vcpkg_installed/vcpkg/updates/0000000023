@@ -1,0 +1,9 @@
+Package: boost-type-traits
+Version: 1.73.0
+Depends: boost-config, boost-detail, boost-static-assert, boost-vcpkg-helpers
+Architecture: x64-osx
+Multi-Arch: same
+Abi: 2dcaea2c664b12de82e70c6382b02638100efc33
+Description: Boost type_traits module
+Type: Port
+Status: install ok installed

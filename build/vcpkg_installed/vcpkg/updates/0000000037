@@ -1,0 +1,9 @@
+Package: cppitertools
+Version: 2.0
+Depends: boost-optional
+Architecture: x64-osx
+Multi-Arch: same
+Abi: bc23a444ccbea7870c2de0910552adb9dbf7f329
+Description: Range-based for loop add-ons inspired by the Python builtins and itertools library
+Type: Port
+Status: install ok installed

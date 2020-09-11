@@ -1,0 +1,9 @@
+Package: boost-container-hash
+Version: 1.73.0
+Depends: boost-assert, boost-compatibility, boost-config, boost-core, boost-detail, boost-integer, boost-static-assert, boost-type-traits, boost-vcpkg-helpers
+Architecture: x64-osx
+Multi-Arch: same
+Abi: 8b63eed7a52ce408eee78a2be10328d62f6e2800
+Description: Boost container_hash module
+Type: Port
+Status: install ok half-installed

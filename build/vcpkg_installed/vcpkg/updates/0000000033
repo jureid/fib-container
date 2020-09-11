@@ -1,0 +1,9 @@
+Package: boost-utility
+Version: 1.73.0
+Depends: boost-config, boost-container-hash, boost-core, boost-detail, boost-integer, boost-io, boost-preprocessor, boost-static-assert, boost-throw-exception, boost-type-traits, boost-vcpkg-helpers
+Architecture: x64-osx
+Multi-Arch: same
+Abi: 8846d2aa9cf2bbe72205f3eb849c95fd94136b82
+Description: Boost utility module
+Type: Port
+Status: install ok installed

@@ -1,0 +1,11 @@
+x64-osx/
+x64-osx/include/
+x64-osx/include/boost/
+x64-osx/include/boost/assert.hpp
+x64-osx/include/boost/assert/
+x64-osx/include/boost/assert/source_location.hpp
+x64-osx/include/boost/current_function.hpp
+x64-osx/share/
+x64-osx/share/boost-assert/
+x64-osx/share/boost-assert/copyright
+x64-osx/share/boost-assert/vcpkg_abi_info.txt

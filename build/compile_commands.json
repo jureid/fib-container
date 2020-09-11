@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/julia/fib-container/build",
+  "command": "/usr/bin/clang++ -DFMT_LOCALE -isystem vcpkg_installed/x64-osx/include -isystem vcpkg_installed/x64-osx/share/cppitertools -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -std=gnu++17 -o CMakeFiles/fibonacci.dir/src/main.cpp.o -c /Users/julia/fib-container/src/main.cpp",
+  "file": "/Users/julia/fib-container/src/main.cpp"
+}
+]

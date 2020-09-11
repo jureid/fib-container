@@ -1,0 +1,9 @@
+Package: fmt
+Version: 7.0.3
+Port-Version: 2
+Architecture: x64-osx
+Multi-Arch: same
+Abi: d9b4ae4169a4138cd6137a3397cd52743ba9da20
+Description: Formatting library for C++. It can be used as a safe alternative to printf or as a fast alternative to IOStreams.
+Type: Port
+Status: install ok installed
