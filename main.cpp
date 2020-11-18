@@ -1,5 +1,6 @@
 #include <fmt/format.h>
 #include <cppitertools/itertools.hpp>
+#include <vector>
 
 /**
  * @brief sample fibonacci program
